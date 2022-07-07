@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a36dc1b.css",
+    "main.js": "/static/js/main.5c398541.js",
+    "static/media/Gobinath G.png": "/static/media/Gobinath G.a5f7e0d699d52778764d.png",
+    "static/media/background.jpg": "/static/media/background.25ff2f6d798bdf6aac53.jpg",
+    "index.html": "/index.html",
+    "main.4a36dc1b.css.map": "/static/css/main.4a36dc1b.css.map",
+    "main.5c398541.js.map": "/static/js/main.5c398541.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a36dc1b.css",
+    "static/js/main.5c398541.js"
+  ]
+}
